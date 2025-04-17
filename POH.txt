@@ -1,0 +1,117 @@
+
+
+
+Horten IX (Ho 229)
+X-Plane ACF model by Uwe F. Reitter
+ 
+ 
+BASIC POH:
+ 
+PREPARATION:
+
+Instruments show all metric as being german WW-2. But all important values can be displayed
+also imperial by hitting the "Imperial" button at the right hand panel.
+
+Assign joystick switches for pitch trim (keep it trimmed!) and 3d cockpit mouselook.
+Witch 3d cockpit mouselook you will toggle between 2D and 3D panel.
+By use of the 2D panel you have ALL buttons and instruments on 1 single screen at 1 time.
+ 
+Choose between Jumo 004B, 004D and 004E engines with the fictive instrument in the right instrument panel.
+The prototype flights february 1945 took place with 004B-2 engines (900 kilopond / 1,983 lb thrust)
+This ACF model default is Jumo 004C (1050 kilopond / 2,362 lb thrust). The Jumo 004D engines were ready
+at the very end of the war, but they never gone airborne.
+ 
+If you want to use engines in an original WW-2 manner always run up the engines especially slowly
+to 6000-7000 RPM. Otherwise the original engines overheated and were weakened by cavitation
+in the compressor stage. So in any flight situation where you can expect an immediate need of full thrust
+never decrease the RPM smaller than 6000 RPM. (no real need to do so in the simulator)
+ 
+TAKE OFF:
+ 
+Set take-off trim to 65% or 9.5 DEG. Set flaps to det 1.
+Hold the aircraft stationary until 7000 RPM. Then release the brakes and give full throttle.
+Pull stick gently while speeding up to keep rear wheels grounded.
+Rotate up at 200 kmh (fully laden, no bombs) or at 220 kmh (fully laden + external loads)
+After becoming airborne, immediately ease slightly stick forward to gain the optimum climbing speed,
+climb never more slowly than 475 kmh true at 0 m  to 2000 m altitude .
+ 
+LANDING:
+
+Retract gun sight (button "Visier wgklappen") or shift view a little aside (arrow keys).
+The best approach speed is 230 - 250 kmh with flap det 1 and elevator trim about 65% up.
+Shortly before reaching the airfield boundary, decrease the glide angle a little and
+reduce the speed to about 180 kmh. Then flatten out and touch down normally at 150 kmh.
+Deploy speedbrakes and if needed deploy parachute.
+Only apply wheelbrakes when all wheels have touched the ground.
+ 
+COMBAT:
+
+Check the CG (center of gravity) instrument. General handling is save for all possible loads,
+but for dogfight, external loads shall be dropped and the cg should be in the green area.
+Never risk a stall when the cg is in the red area. This results in total loss of control.
+For all in-flight situations keep RUDER-STAB engaged. The original Ho229 had
+artificial rudder stab, esencially needed for all weapon use. Disengage RUDER-STAB only
+to experience the weak natural yaw stability of the airframe. Be then prepared to use heavy rudder
+at low speed and strong manovers.
+
+Non ww2 authentic: Hit button "Ziel anzeigen" at the gun sight. You can parse now through all
+other planes in your air space by the index target function. Their relative altitude (left),
+the relative direction and their distance (right) will be displayed inside the gun sight.
+The display range is +-300 meters for the altitude and 15,000 meters for the distance.
+
+AUTO PILOT:
+
+The left wooden clip-board is a disguised moving map and handles the use of the auto-pilot.
+Select a desired heading with the knob next to the compass instrument.
+Secect Ein(On) to set it standby. Hit HDG(heading) and HOLD(altitude) to engage those functions.
+Select AP will now make the plane hold the current altitude and follow the set heading.
+To change the flight level adjust the altitude with the knob next to the altimeter.
+Then select a desired rate of climb with the knob at the VVI instruments.
+Hitting V/S now makes the plane climb or decent to the new altitude and hold it when reached.
+3-Axis auto-pilots were present at the end of ww2.
+
+
+RADIO NAVIGATION AND FLIGHT MANAGING COMPUTER FMS:
+
+The right wooden clip-board is a disguised FMS and FUEL calculator.
+The bearing indication inside the compass instrument is not WW-2 authentic.
+
+Tune in an ADF or/and VOR frequency and the direction of ADF1/VOR1 will be displayed in the
+compass instrument. ADF/VOR 1&2 will be displayed at the left clipboard.
+
+If the radio is tuned in a airfields glideslope frequency the glideslope indicator (WW-2 authentic)
+is a great aid for landing with limited sight being unexperienced pilot.
+
+If you decide to do (not WW-2 authentic) GPS operations
+Press on the FMS clipboard INIT then APT (or VOR or NDB)
+and input the ICAO-code of your next waypoint or destination airport.
+You can also input a desired flight level for each waypoint.
+Append waypoints by pressing next and repeat the input procedure.
+With LD and SA you can save and load your FMS inputs.
+The waypont route is displayed at the map-clipboard.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
